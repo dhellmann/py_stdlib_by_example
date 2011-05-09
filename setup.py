@@ -16,7 +16,7 @@ import os
 import sys
 
 try:
-    long_description = open('README', 'rt').read()
+    long_description = open('README.txt', 'rt').read()
 except IOError:
     long_description = ''
 
