@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 PROJECT = 'PyMOTW'
-VERSION = '2.0'
+VERSION = '2.0.1'
 
 # Bootstrap installation of Distribute
 import distribute_setup
@@ -146,8 +146,6 @@ setup(
                                      package='PyMOTW',
                                      only_in_packages=False,
                                      ),
-
-    scripts = [ 'motw' ],
 
     zip_safe=False,
     )

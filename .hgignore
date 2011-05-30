@@ -11,6 +11,7 @@ setup.py
 .DS_Store
 *.mo
 *.orig
+.tox
 
 syntax: re
 ^PyMOTW/.*/[eE]xample/

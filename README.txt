@@ -21,6 +21,18 @@ License
 The source code included here is copyright Doug Hellmann and licensed
 under the BSD license.  See LICENSE.txt for complete details.
 
+History
+=======
+
+2.0.1
+
+  - Patch release to remove unused console script ``motw`` and fix
+    other packaging issues.
+
+2.0
+
+  - First release associated with the book.
+
 
 .. _The Python Standard Library By Example: http://www.doughellmann.com/books/byexample/
 
